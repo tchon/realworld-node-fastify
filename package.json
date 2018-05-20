@@ -1,0 +1,19 @@
+{
+  "name": "realworld-node-fastify",
+  "version": "1.0.0",
+  "description": "Example fastify node backend adhering to RealWorld API spec.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchon/realworld-node-fastify.git"
+  },
+  "author": "Tim Chon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tchon/realworld-node-fastify/issues"
+  },
+  "homepage": "https://github.com/tchon/realworld-node-fastify#readme"
+}
